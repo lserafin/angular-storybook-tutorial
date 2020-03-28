@@ -1,3 +1,16 @@
+# Angular Storybook
+
+Based on the following tutorial [Storybook Angular](https://github.com/lserafin/angular-storybook-tutorial).
+
+Run the test runner (Jest) in a terminal:
+`npm run jest`
+
+Start the component explorer on port 6006:
+`npm run storybook`
+
+Run the frontend app proper on port 4200:
+`npm run start`
+
 # Taskbox
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
