@@ -22,6 +22,9 @@
     "@angular/platform-browser": "~9.1.0",
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
+    "@ngxs/devtools-plugin": "^3.6.2",
+    "@ngxs/logger-plugin": "^3.6.2",
+    "@ngxs/store": "^3.6.2",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
@@ -103,7 +106,6 @@
       "^.+\\.(ts|html)$": "ts-jest",
       "^.+\\.js$": "babel-jest",
       "^.+\\.stories\\.[jt]sx?$": "@storybook/addon-storyshots/injectFileName"
-
     },
     "moduleFileExtensions": [
       "ts",
